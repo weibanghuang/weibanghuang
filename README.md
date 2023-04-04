@@ -10,18 +10,17 @@ HTML/CSS/JAVASCRIPT https://github.com/weibanghuang/hours_calculator
 
 ![New Project (2)](https://user-images.githubusercontent.com/77127321/229655807-00d27c8d-9dd0-41d7-9bdf-16da1c7bf450.png)
 
-JAVA/FIREBASE https://github.com/weibanghuang/pokemon
+PYTHON Dashboard https://github.com/weibanghuang/Python-Plotly-Dashboard
 
-![New Project (3)](https://user-images.githubusercontent.com/77127321/229655812-0d59bb88-a78a-4454-9ab6-9f1b3893ba1d.png)
+![Screenshot 2023-04-03 at 8 25 19 PM](https://user-images.githubusercontent.com/77127321/229655859-f31f2fbb-01ad-4ee9-b83e-85f0c81008bb.png)
 
 SQL Relational Database https://github.com/weibanghuang/mealkitdelivery_database
 
 ![New Project (1)](https://user-images.githubusercontent.com/77127321/229655849-e058782e-80c0-48da-9641-1067fb2d3d3e.png)
 
-PYTHON Dashboard https://github.com/weibanghuang/Python-Plotly-Dashboard
+JAVA/FIREBASE https://github.com/weibanghuang/pokemon
 
-![Screenshot 2023-04-03 at 8 25 19 PM](https://user-images.githubusercontent.com/77127321/229655859-f31f2fbb-01ad-4ee9-b83e-85f0c81008bb.png)
-
+![New Project (3)](https://user-images.githubusercontent.com/77127321/229655812-0d59bb88-a78a-4454-9ab6-9f1b3893ba1d.png)
 <!--
 **weibanghuang/weibanghuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
