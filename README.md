@@ -5,7 +5,7 @@ Here are some of my projects:
 HTML/CSS/JAVASCRIPT https://github.com/weibanghuang/maxprev website: 
 https://weibanghuang.github.io/maxprev/
 
-![New Project (5)](https://user-images.githubusercontent.com/77127321/236653815-39f907e0-cc17-44a5-b638-879918e86b92.png)
+![New Project (6)](https://user-images.githubusercontent.com/77127321/236653832-3aa01467-9030-4407-bcd1-99a949802210.png)
 
 JAVA/FIREBASE https://github.com/weibanghuang/Android-Game-nbyn
 
