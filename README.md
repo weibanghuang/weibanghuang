@@ -8,7 +8,7 @@ website: <br>
 https://weibanghuang.github.io/maxprev/<br>
 https://github.com/weibanghuang/maxprev <br>
 
-![New Project (6)](https://user-images.githubusercontent.com/77127321/236653832-3aa01467-9030-4407-bcd1-99a949802210.png)
+![New Project (7)](https://github.com/weibanghuang/weibanghuang/assets/77127321/2b760dbc-68b4-444d-b33e-9b4afb4c3203)
 
 Fullstack Android Multiplayer Game <br>
 JAVA/FIREBASE <br>
