@@ -5,10 +5,13 @@ Here are some of my projects:
 Workout Tracker Website <br>
 HTML/CSS/JAVASCRIPT <br>
 website: <br>
+Offline version: <br>
 https://weibanghuang.github.io/maxprev/<br>
-https://github.com/weibanghuang/maxprev <br>
+Fullstack version <br>
+https://github.com/weibanghuang/maxprev_fullstack <br>
 
-![New Project (7)](https://github.com/weibanghuang/weibanghuang/assets/77127321/2b760dbc-68b4-444d-b33e-9b4afb4c3203)
+![techstack](https://github.com/weibanghuang/weibanghuang/assets/77127321/4903cdb1-7cbc-4af1-a38b-d57f8572b8f9)
+
 
 Fullstack Android Multiplayer Game <br>
 JAVA/FIREBASE <br>
