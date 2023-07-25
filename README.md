@@ -1,4 +1,4 @@
-### I'm WeiBang 👋
+![IMG_0528](https://github.com/weibanghuang/weibanghuang/assets/77127321/53b3945c-55da-4765-98c0-9c818ccbc82c)### I'm WeiBang 👋
 
 Here are some of my projects:
 
@@ -7,6 +7,9 @@ HTML/CSS/JAVASCRIPT <br>
 website: <br>
 Offline version: <br>
 https://weibanghuang.github.io/maxprev/<br>
+
+![IMG_0528](https://github.com/weibanghuang/weibanghuang/assets/77127321/4923694e-1a95-40a2-a66c-ba830c1f7ce7)
+
 Fullstack version <br>
 https://github.com/weibanghuang/maxprev_fullstack <br>
 
