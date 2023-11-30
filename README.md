@@ -8,7 +8,7 @@ website: <br>
 Offline version: <br>
 https://weibanghuang.github.io/hybrid/<br>
 
-![IMG_1746](https://github.com/weibanghuang/weibanghuang/assets/77127321/eaa46bf8-a5a9-4a3f-ad8a-5d1afbd44bd0)
+![IMG_1746](https://github.com/weibanghuang/weibanghuang/assets/77127321/e092d3dc-93d4-4e82-93a3-7f491373f3e8)
 
 Fullstack version <br>
 https://github.com/weibanghuang/maxprev_fullstack <br>
