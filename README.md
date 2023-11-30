@@ -13,8 +13,7 @@ https://weibanghuang.github.io/hybrid/<br>
 Fullstack version <br>
 https://github.com/weibanghuang/maxprev_fullstack <br>
 
-![techstack](https://github.com/weibanghuang/weibanghuang/assets/77127321/4903cdb1-7cbc-4af1-a38b-d57f8572b8f9)
-
+![image (2)](https://github.com/weibanghuang/weibanghuang/assets/77127321/2436f060-6ec2-4ff4-bad8-e5b29986a3a6)
 
 Fullstack Android Multiplayer Game <br>
 JAVA/FIREBASE <br>
