@@ -3,13 +3,12 @@
 Here are some of my projects:
 
 Workout Tracker Website <br>
-HTML/CSS/JAVASCRIPT <br>
+REACT/HTML/CSS/JAVASCRIPT <br>
 website: <br>
 Offline version: <br>
-https://weibanghuang.github.io/maxprev/<br>
+https://weibanghuang.github.io/hybrid/<br>
 
-![IMG_0528](https://github.com/weibanghuang/weibanghuang/assets/77127321/e63082a5-ce44-4065-a7ed-ef76c38a80b9)
-
+![IMG_1746](https://github.com/weibanghuang/weibanghuang/assets/77127321/eaa46bf8-a5a9-4a3f-ad8a-5d1afbd44bd0)
 
 Fullstack version <br>
 https://github.com/weibanghuang/maxprev_fullstack <br>
