@@ -2,6 +2,13 @@
 
 Here are some of my projects:
 
+Stop Sign Detection Computer Vision <br>
+REACT/HTML/CSS/JAVASCRIPT/PYTHON/FLASK/OPENCV <br>
+website: <br>
+https://weibanghuang.github.io/stop_sign/<br>
+
+![Screenshot 2024-04-12 at 5 36 05 PM](https://github.com/weibanghuang/weibanghuang/assets/77127321/6302cdc1-2422-40cc-a185-c7f42da9c360)
+
 Workout Tracker Website <br>
 REACT/HTML/CSS/JAVASCRIPT <br>
 website: <br>
